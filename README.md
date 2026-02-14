@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="pc.gif" width="100%" alt="PC animation" />
-</div>
-
 <h1 align="center">I'm Lucas, make yourself at home 🙏</h1>
 
 ###
