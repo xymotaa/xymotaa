@@ -87,12 +87,11 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/xymotaa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/xymotaa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" />
+    </a>
   <a href="mailto:lucasmota_si@hotmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+    </a>
 </div>
 
 ---
