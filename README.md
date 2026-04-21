@@ -5,8 +5,8 @@
 ![Game over](./lucasmota.webp)
 
 <p align="center">
-  <a href="https://berkindev.tech/">
-    <img alt="Website" src="https://img.shields.io/badge/My%20Website-berkindev.tech-FF6A00?style=for-the-badge" />
+  <a href="https://xymotaa.com/">
+    <img alt="Website" src="https://img.shields.io/badge/My%20Website-xymotaa.tech-FF6A00?style=for-the-badge" />
   </a>
 </p>
 
@@ -56,8 +56,6 @@
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
