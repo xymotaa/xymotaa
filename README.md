@@ -20,6 +20,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=xymotaa.xymotaa&left_text=Profile%20views"  />
 </div>
 
+---
+
 ###
 
 <h4 align="left">🚀 About</h4>
@@ -28,6 +30,8 @@
 
 <p align="left">✨ Building solutions from front to back<br>💻 Full Stack Developer<br>📚 Working with modern web technologies, APIs, and databases</p>
 
+---
+
 ###
 
 <h4 align="left">✍️ Academic background</h4>
@@ -35,6 +39,8 @@
 ###
 
 <p align="left">📍 Undergraduate in Information Systems (7th semester of 8)<br>🏫 Federal University of the South and Southeast of Pará (UNIFESSPA</p>
+
+---
 
 ###
 
@@ -71,6 +77,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="40" alt="phoenix logo"  />
 </div>
+
+---
 
 ###
 
