@@ -2,6 +2,20 @@
 
 ###
 
+![Game over](./lucasmota.webp)
+
+<p align="center">
+  <a href="https://berkindev.tech/">
+    <img alt="Website" src="https://img.shields.io/badge/My%20Website-berkindev.tech-FF6A00?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/xymotaa_?igsh=M2J4anF5dzRnb3pp&utm_source=qr"><img alt="Instagram" src="https://img.shields.io/badge/berkindev-Instagram-C13584?style=for-the-badge" /></a>
+  <a href="https://medium.com/@xymotaa"><img alt="Medium" src="https://img.shields.io/badge/Blog-Medium-12100E?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/xymotaa/"><img alt="LinkedIn" src="https://img.shields.io/badge/MY%20PROFILE-LinkedIn-0A66C2?style=for-the-badge" /></a>
+</p>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=xymotaa.xymotaa&left_text=Profile%20views"  />
 </div>
