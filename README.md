@@ -5,8 +5,8 @@
 ![Game over](./lucasmota.webp)
 
 <p align="center">
-  <a href="https://berkindev.tech/">
-    <img alt="Website" src="https://img.shields.io/badge/My%20Website-berkindev.tech-FF6A00?style=for-the-badge" />
+  <a href="https://xymotaa.com/">
+    <img alt="Website" src="https://img.shields.io/badge/My%20Website-xymotaa.tech-FF6A00?style=for-the-badge" />
   </a>
 </p>
 
@@ -20,6 +20,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=xymotaa.xymotaa&left_text=Profile%20views"  />
 </div>
 
+---
+
 ###
 
 <h4 align="left">🚀 About</h4>
@@ -28,6 +30,8 @@
 
 <p align="left">✨ Building solutions from front to back<br>💻 Full Stack Developer<br>📚 Working with modern web technologies, APIs, and databases</p>
 
+---
+
 ###
 
 <h4 align="left">✍️ Academic background</h4>
@@ -35,6 +39,8 @@
 ###
 
 <p align="left">📍 Undergraduate in Information Systems (7th semester of 8)<br>🏫 Federal University of the South and Southeast of Pará (UNIFESSPA</p>
+
+---
 
 ###
 
@@ -57,8 +63,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -73,6 +77,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phoenix/phoenix-original.svg" height="40" alt="phoenix logo"  />
 </div>
+
+---
 
 ###
 
