@@ -24,7 +24,7 @@
 
 ###
 
-<h4 align="left">🚀 About</h4>
+<h3 align="left">🚀 About</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h4 align="left">✍️ Academic background</h4>
+<h3 align="left">✍️ Academic background</h3>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h4 align="left">🛠 Languages and Tools</h4>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
@@ -82,7 +82,7 @@
 
 ###
 
-<h4 align="left">📱Connect with me</h4>
+<h3 align="left">📱Connect with me</h3>
 
 ###
 
