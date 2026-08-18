@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">📍 Undergraduate in Information Systems (7th semester of 8)<br>🏫 Federal University of the South and Southeast of Pará (UNIFESSPA</p>
+<p align="left">📍 Undergraduate in Information Systems (8th semester of 8)<br>🏫 Federal University of the South and Southeast of Pará (UNIFESSPA</p>
 
 ---
 
